@@ -1,2 +1,2 @@
 # Reinforcement-Learning
-optimal CSOC staffing using Reinforcement Learning (post decision state variable)
+Optimal CSOC staffing using Reinforcement Learning (post decision state variable)
